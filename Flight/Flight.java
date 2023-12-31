@@ -1,5 +1,3 @@
-//Nouf Alfaris 444200531
-
 public class Flight {
 
 public static int numOfFlights;
